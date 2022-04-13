@@ -1,0 +1,19 @@
+{
+  "name": "died",
+  "version": "1.0.0",
+  "description": "Test if a website has died",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "website",
+    "available",
+    "died"
+  ],
+  "author": "Daniel Raeder",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
